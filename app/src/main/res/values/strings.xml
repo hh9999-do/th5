@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">th5</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+</resources>
